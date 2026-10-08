@@ -23,6 +23,8 @@
 
 ---
 
+md ![GitHub jet heatmap](https://raw.githubusercontent.com/ajsites2324/ajsites2324/main/dist/github-jet.svg) ```
+
 ## 🚀 About Me
 
 Hi! I'm a **B.Tech Electrical Engineering student at NIT Arunachal Pradesh**, passionate about technology and building practical solutions.
